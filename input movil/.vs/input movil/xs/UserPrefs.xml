@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{11A55E4E-50E8-E068-78D7-D624B4729767}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/CounterControl.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/touchphase.cs" Line="23" Column="5" />
+      <File FileName="Assets/scripts/keyboard.cs" Line="10" Column="1" />
+      <File FileName="Assets/scripts/navegacion.cs" Line="12" Column="6" />
+      <File FileName="Assets/scripts/Mouse.cs" Line="46" Column="1" />
+      <File FileName="Assets/scripts/testing.cs" Line="27" Column="34" />
+      <File FileName="Assets/scripts/VirtualDPad.cs" Line="7" Column="2" />
+      <File FileName="Assets/scripts/MultiTouch.cs" Line="10" Column="35" />
+      <File FileName="Assets/scripts/acelerometer.cs" Line="32" Column="6" />
+      <File FileName="Assets/scripts/HUDtexto.cs" Line="27" Column="1" />
+      <File FileName="Assets/scripts/CounterControl.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
